@@ -1,6 +1,6 @@
-# LoRA‑Enhanced MoE with Holistically Guided Decoder (HGD) for Brain Tumor Segmentation
+# Accurate brain tumor segmentation from incomplete MRI data
 
-This repository provides a **minimal-yet-complete PyTorch implementation** of a **LoRA‑enhanced Mixture‑of‑Experts (MoE)** encoder with a **Holistically Guided Decoder (HGD)** for robust brain tumor segmentation under **missing MRI modalities**.
+This repository provides a **minimal-yet-complete PyTorch implementation** of a **Mixture‑of‑Experts (MoE)** encoder with a **Holistically Guided Decoder (HGD)** for robust brain tumor segmentation under **missing MRI modalities**.
 
 > Educational reference implementation with a tiny synthetic example. Replace the synthetic dataset with BraTS2018 (NIfTI) to train for real.
 
